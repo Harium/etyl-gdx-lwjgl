@@ -6,6 +6,6 @@ Lwjgl backend to Etyl GDX
 <dependency>
     <groupId>com.harium.etyl</groupId>
     <artifactId>etyl-gdx-lwjgl</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 </dependency>
 ```

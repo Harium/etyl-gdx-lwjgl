@@ -1,7 +1,5 @@
 package com.harium.etyl;
 
-import com.badlogic.gdx.assets.AssetManager;
-import com.harium.etyl.ui.GDXWindow;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -12,7 +10,8 @@ public class BaseEngineTest {
 
     @Test
     public void testInit() {
-        BaseEngine engine = new BaseEngine(640,480) {};
+        BaseEngine engine = new BaseEngine(640, 480) {
+        };
 
         Assert.assertEquals(WIDTH, engine.w);
         Assert.assertEquals(HEIGHT, engine.h);
