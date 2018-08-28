@@ -3,8 +3,8 @@ package com.harium.etyl;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import com.harium.etyl.core.GDXCore;
+import com.harium.etyl.gdx.GDXWindow;
 import com.harium.etyl.loader.Loader;
-import com.harium.etyl.ui.GDXWindow;
 import com.harium.etyl.util.PathHelper;
 
 import java.io.File;
