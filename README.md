@@ -8,6 +8,6 @@ Recommended Etyl GDX backend
 <dependency>
     <groupId>com.harium.etyl</groupId>
     <artifactId>etyl-gdx-lwjgl</artifactId>
-    <version>1.1.0</version>
+    <version>1.9.11</version>
 </dependency>
 ```
